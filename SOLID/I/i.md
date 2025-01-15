@@ -10,17 +10,13 @@ In layman's terms, don't add additional functionality to an existing interface b
 
 Ce que c'est... 
 
-    1. Les entités devraient être ouvertes pour l’extension, mais fermées pour la modification.
-    2. Comportement du code peut être extended.
-    3. On devrait etre capable dajouter de nouvelles features a lentite du logiciel.
-    4. Lentite a deja ete developper et tester, donc je devrait pas etre touchee. 
+    1. Un client ne devraient pas dépendre d’interface qu’il n’utilise pas.
 
 
 Conséquences du non respect :
 
-    1. Difficile de maintenir le code 
-    2. Difficile de modifier le code sans introduire des bugs
-    3. Incoherence dans les classes (methodes sans implementation)
+    1. Implementations vides
+    2. Dependance a plusieurs interfaces inutiles
 
 But du ISP :
 
