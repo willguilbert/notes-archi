@@ -2,7 +2,7 @@
 
 ---
 
-**Le TDD est une discipline qui consiste à ==écrire les tests avant le code de production== à l’aide d’un cycle court alternant entre les tests, le code et du réusinage. Chaque itération est accomplie en formulant un sous-problème à résoudre sous forme d'un test avant d'écrire le code source correspondant, et où le code est continuellement remanié dans une volonté de simplification.** 
+**Le TDD est une discipline qui consiste à écrire les tests avant le code de production à l’aide d’un cycle court alternant entre les tests, le code et du réusinage. Chaque itération est accomplie en formulant un sous-problème à résoudre sous forme d'un test avant d'écrire le code source correspondant, et où le code est continuellement remanié dans une volonté de simplification.** 
 
  - Assure que les besoins du client sont comble (comportemnt)
  - Code coverage (every line of code is tested)
