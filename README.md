@@ -1,3 +1,3 @@
-# ts-archi
+# notes-archi
 
-Personnal notes on architectural designs - in TypeScript
+Personnal notes on architectural designs - in TypeScript, mostly.
